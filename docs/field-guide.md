@@ -5,6 +5,19 @@
 **Application:** Repair and leveling of both faces of an existing hollow concrete masonry wall in a hot, humid, rain-exposed tropical climate  
 **Status:** Field guidance only. Not a structural design, stamped specification, or substitute for local building-code requirements.
 
+## Visual references
+
+### Wall cross-section
+![Schematic wall cross-section showing render on both faces](images/wall-cross-section.svg)
+
+### Repair sequence
+![Four-step masonry repair sequence](images/repair-sequence.svg)
+
+### Render thickness planning
+![Render thickness planning comparison](images/render-thickness-guide.svg)
+
+For reference construction photographs and licensing/attribution, see [Photo References and Attribution](photo-references.md). Photos are examples only and do not depict the actual wall being repaired.
+
 ## 1. Purpose and scope
 This guide describes a safe work sequence for assessing, repairing, leveling, and finishing an existing nominal 4-inch (approximately 100 mm) hollow concrete block wall whose surfaces and/or mortar joints have deteriorated.
 
