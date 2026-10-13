@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Hollow concrete block wall with render on both faces</title><desc id="desc">Schematic cross section showing exterior render, 100 millimeter nominal hollow block, and interior render. Thicknesses are illustrative and must be checked against the selected product and site conditions.</desc>
+<rect width="1200" height="620" fill="#f7f7f4"/><text x="60" y="62" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#17212b">WALL CROSS-SECTION / HIWA NG PADER</text>
+<text x="60" y="98" font-family="Arial,sans-serif" font-size="20" fill="#45515d">Schematic only • Not to scale • Confirm actual block and render thickness</text>
+<rect x="120" y="180" width="145" height="270" rx="3" fill="#d6b28b" stroke="#7a5737" stroke-width="3"/>
+<rect x="265" y="180" width="520" height="270" rx="3" fill="#c8cdd1" stroke="#59636c" stroke-width="3"/>
+<rect x="785" y="180" width="145" height="270" rx="3" fill="#d6b28b" stroke="#7a5737" stroke-width="3"/>
+<g fill="#f7f7f4" stroke="#59636c" stroke-width="3"><rect x="330" y="235" width="130" height="160" rx="16"/><rect x="590" y="235" width="130" height="160" rx="16"/></g>
+<g stroke="#8b9299" stroke-width="2"><path d="M265 270H785 M265 360H785 M395 180V270 M655 270V360 M525 360V450"/></g>
+<g font-family="Arial,sans-serif" fill="#17212b" text-anchor="middle"><text x="192" y="220" font-size="21" font-weight="700">EXTERIOR</text><text x="192" y="248" font-size="18">render</text><text x="525" y="215" font-size="24" font-weight="700">HOLLOW BLOCK</text><text x="525" y="425" font-size="22">~100 mm nominal</text><text x="857" y="220" font-size="21" font-weight="700">INTERIOR</text><text x="857" y="248" font-size="18">render</text></g>
+<g stroke="#17212b" stroke-width="2" fill="none"><path d="M120 485V510H265V485 M265 510H785 M785 485V510H930V485"/></g>
+<g font-family="Arial,sans-serif" fill="#17212b" text-anchor="middle"><text x="192" y="545" font-size="20">15–20 mm*</text><text x="525" y="545" font-size="20">Block thickness varies</text><text x="857" y="545" font-size="20">10–15 mm*</text></g>
+<text x="60" y="590" font-family="Arial,sans-serif" font-size="18" fill="#45515d">*Preliminary planning ranges only. Use the approved render system and inspect wall condition before work.</text>
+</svg>
